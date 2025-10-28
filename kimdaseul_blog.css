@@ -1,0 +1,74 @@
+* {
+	text-align: center;
+	padding: 0;
+	margin: 0;
+	word-break: keep-all;
+	background: #f9f6ed;
+
+}
+
+h1 {
+	border: 5px dotted indianred;
+	font-size: 32px;
+	margin: 10px;
+	padding: 20px;
+	color: darkred;
+}
+
+nav {
+	color: lightgoldenrodyellow;
+	background: indianred;
+	display: flex;
+	justify-content: space-around;
+	margin: 10px;
+	padding: 10px;
+}
+
+ul {
+	background: indianred;
+}
+
+article {
+	border: 3px dotted darkred;
+	margin: 50px;
+}
+
+h2 {
+	margin: 10px;
+	padding: 10px;
+	background: darkred;
+	color: yellow;
+}
+
+h3 {
+	margin: 40px;
+}
+
+h4 {
+	margin: 30px;
+}
+
+img {
+	width: 300px;
+	margin: 10px;
+}
+
+.small {
+	font-size: 16px;
+}
+
+p {
+	margin: 30px;
+}
+
+figcaption {
+	font-size: 13px;
+}
+
+.blog {
+	color: darkred;
+}
+
+a {
+	color: indianred;
+}
